@@ -1,7 +1,7 @@
 
 # Código Del Curso de Traversy Media en Udemy. Modern HTML & CSS From The Beginning
 
-## Dropdown Knowledge Timeline. Videos 84 a 87
+## Proyecto Knowledge Timeline. Videos 84 a 87
 
 ### Medios de contacto del autor del video:
 
